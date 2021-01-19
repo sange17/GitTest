@@ -31,3 +31,5 @@ Push전에 Pull을 하여 자료가 덮어씌워져 자료가 손실되는 것�
 * Fork
 
 * Clone
+1. git clone "Repository address"
+     - 지정한 파일에 새로운 Repository의 내용을 clone하여 가져옵니다.
