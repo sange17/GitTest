@@ -3,7 +3,7 @@
 Summary of github usage
 ---------------------------
 
-Github
+### `Github`
 Push전에 Pull을 하여 자료가 덮어씌워져 자료가 손실되는 것을 방지합니다.
 
 * Root Folder 연결
