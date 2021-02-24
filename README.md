@@ -30,7 +30,7 @@ Push전에 Pull을 하여 자료가 덮어씌워져 자료가 손실되는 것�
 * Fork
 1. 내 repositoty에 추가할 상대 프로젝트를 fork로 찍어온다.
 
-2. fork할 상대의 repository에서 URL(Clone URL)을 복사하여 받아온다.
+2. fork할 상대의 repository에서 URL(Clone URL)을 복사하여 받아온다.(*git Clone)
      - git clone [Clone URL]
 
 3. pull-request 작업을 수행할 branch를 생성하고 생성한 branch로 변경합니다
@@ -68,8 +68,3 @@ Push전에 Pull을 하여 자료가 덮어씌워져 자료가 손실되는 것�
      - 원본 repository에 merge가 완료되면 작업하던 branch를 삭제합니다.
      - 코드 동기화: git pull origin
      - branch 삭제: git branch -d [branchName]
-
-
-* Clone
-1. git clone "Repository address"
-     - 지정한 파일에 새로운 Repository의 내용을 clone하여 가져옵니다.
